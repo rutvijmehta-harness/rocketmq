@@ -94,7 +94,7 @@ The Name Server boot success...
 
 **2) Start Broker**
 
-For macOS and Linux users:
+For macOS and Linux users (Test):
 ```shell
 ### start Broker
 $ nohup sh bin/mqbroker -n localhost:9876 &
